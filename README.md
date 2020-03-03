@@ -1,4 +1,3 @@
-
 #To-Do-List-React-App
 Creating a To-do List React App and hosting it with Github pages.
 
