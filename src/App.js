@@ -42,7 +42,7 @@ componentDidMount(){
     <div>
       <div className="container">
       <Header/>
-      <Route exact path="/" render={props =>(
+      <Route exact path={["/", "/To-Do-List-React-App"]} render={props =>(
         <React.Fragment>
         <AddTodo addTodo={this.addTodo} />
        <Todos todos={this.state.todos} markComplete={this.markComplete} 
