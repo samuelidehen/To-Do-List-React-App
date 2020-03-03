@@ -6,4 +6,4 @@ You can visit the deployed app, at http://samuelidehen.github.io/To-Do-List-Reac
 
 Give at a few minutes for the Api Calls to fetch data lol.
 
-Visit:  https://github.com/gitname/react-gh-pages for tutorial on how to host React apps on guthub pages .
+Visit:  https://github.com/gitname/react-gh-pages for tutorial on how to host React apps on github pages .
