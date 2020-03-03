@@ -1,5 +1,5 @@
-#To-Do-List-React-App
-Creating a To-do List React App and hosting it with Github pages.
+<h1>To-Do-List-React-App</h1>
+<h2>Creating a To-do List React App and hosting it with Github pages.</h2>
 
 This app makes use of the github pages to host the popular React To-Do list app. You can visit the deployed app, at http://samuelidehen.github.io/To-Do-List-React-App
 
